@@ -8,8 +8,8 @@ Se ti fai queste domande di tanto in tanto allora c'è YaPSNapp per te. Con ques
 Con YaPSNapp è possibile monitorare le tua attività sul PlayStation® Network e quelle dei tuoi amici da qualsiasi luogo. Un'interfaccia semplice e intuitiva permette di conoscere rapidamente quello che è successo sul PSN dalla tua ultima visita.
 
 /!\ Caratteristiche principali 
-• Seguire i tuoi amici (stato - Ultimo collegamento - nuovi trofei)
-• Segui la tua posizione (classifica generale, o per singolo gioco)
+• Seguire i tuoi amici (stato - ultimo collegamento - nuovi trofei)
+• Segui la tua posizione (classifica generale o per singolo gioco)
 • Collezione trofei (accesso offline una volta sincronizzato)
 • Trucchi e consigli (comprese le guide per il platino)
 • Multi-account (solo nella versione completa)
@@ -20,12 +20,12 @@ Con YaPSNapp è possibile monitorare le tua attività sul PlayStation® Network 
 • Navigazione veloce
 
 Se si dispone di un account PSN specifico per il vostro gioco preferito nessun problema, è possibile aggiungere più account e passare da uno all'altro per visualizzare i gruppi di amici.
-In un attimo vedrai quali trofei i tuoi amici si sono guadagnati dall'ultima volta.
-Potrai ammirare la tua raccolta di trofei offline, prima di andare a letto.
-Se non sai come vincere il trofeo che il tuo amico ha appena ottenuto, forse è il momento di dare un'occhiata ai consigli di PlaystationTrophies.org ™, la ricerca integrata ti aiuterà a ottenerlo più velocemente.
+In un attimo vedrai quali trofei i tuoi amici hanno guadagnato dall'ultima volta.
+Potrai ammirare la tua raccolta di trofei offline prima di andare a letto.
+Se non sai come vincere il trofeo che il tuo amico ha appena ottenuto, forse è il momento di dare un'occhiata ai consigli di PlaystationTrophies.org™, la ricerca integrata ti aiuterà a ottenerlo più velocemente.
 
 --------------------------
 Per inviare un feedback/domande puoi farlo in diversi modi (non dalle recensioni dei clienti App Store per favore: P):
-• Dall'interno dell'applicazione dalla schermata del menu (Icona email)
+• Dall'interno dell'applicazione dalla schermata del menu (icona email)
 • Con l'e-mail a yapsnapp@drakfly.com
 • Vai sul nostro Sito web di supporto (http://yapsnapp.drakfly.com/helpdesk/?lang=en) e creare un nuovo ticket dal menù "Create a ticket".
